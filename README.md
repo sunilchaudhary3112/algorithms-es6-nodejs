@@ -8,13 +8,14 @@ Clone or Download the project & run program.js using node command node program.
 ### Prerequisites
 ```
 Nodejs version 6 or above
-Give examples
 ```
 ### Installing
 
 Install nodejs latest version 
+
 Clone/Download the Project
-run node program.js
+
+Run node program.js
 
 ## Built With
 
@@ -23,7 +24,7 @@ run node program.js
 
 ## Authors
 
-* **Sunil Kumar** - *Initial work* - 
+* **Sunil Kumar**  
 
 ## License
 
